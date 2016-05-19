@@ -1,0 +1,8 @@
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\bin\Debug\CompresorImagenes.exe.config
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\bin\Debug\CompresorImagenes.exe
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\bin\Debug\CompresorImagenes.pdb
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\bin\Debug\ImageProcessor.dll
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\bin\Debug\ImageProcessor.Web.dll
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\obj\Debug\CompresorImagenes.csprojResolveAssemblyReference.cache
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\obj\Debug\CompresorImagenes.exe
+C:\Users\Andres-Desktop\Source\Repos\desarrollo-argentino-server\CompresorImagenes\obj\Debug\CompresorImagenes.pdb
